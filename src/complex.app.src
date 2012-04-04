@@ -1,0 +1,9 @@
+{application, complex,
+ [
+  {description, "complex Interface"},
+  {vsn, "1.0.1"},
+  {modules, [complex]},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []}
+ ]}.
